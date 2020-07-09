@@ -29,4 +29,3 @@ https://code.visualstudio.com/download
 このリンクを開くと、下のような画面が出てくると思います。
 
 ![original image](VScode1.jpg)
-C:\Users\kakeh\Documents\GitHub\public\TeX\VScode1.jpg
