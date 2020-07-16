@@ -1,0 +1,56 @@
+* {
+    background-color: snow;
+}
+
+body {
+    margin: 50pt 50pt;
+}
+
+.title {
+    text-align: center;
+}
+.title h1 {
+    font-weight: normal;
+}
+.title a {
+    color: #000;
+}
+
+.section {
+    margin: 20pt 0;
+}
+.section-title {
+    font-size: x-large;
+}
+
+.subsection-title {
+    font-size: larger;
+}
+.contain {
+    padding: 0 15pt;
+}
+
+.Image {
+    text-align: center;
+    margin: 20pt 0;
+}
+
+.two-columns {
+    margin: 10pt;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column-title {
+    font-size: larger;
+    text-align: center;
+    padding: 10pt;
+}
+.column-content {
+    border: 1pt solid;
+    padding: 10pt;
+    margin: 10pt;
+}
