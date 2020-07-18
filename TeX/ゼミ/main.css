@@ -54,3 +54,8 @@ body {
     padding: 10pt;
     margin: 10pt;
 }
+
+.caption {
+    text-align: center;
+    font-size: small;
+}
