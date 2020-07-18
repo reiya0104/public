@@ -40,8 +40,8 @@ body {
 }
 
 .column {
-    float: left;
-    width: 50%;
+    /*float: left;
+    width: 50%;*/
 }
 
 .column-title {
@@ -50,7 +50,7 @@ body {
     padding: 10pt;
 }
 .column-content {
-    border: 1pt solid;
+    border: 1pt dashed;
     padding: 10pt;
     margin: 10pt;
 }
